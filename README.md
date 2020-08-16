@@ -38,7 +38,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Javascript]
 <!--[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />][Python]-->
 [<img align="left" alt="C#" width="26px" src="https://cdn.auth0.com/blog/native-csharp/logo.png" />][C#]
-[<img align="left" alt=".Net Core" width="40px" src="https://timschreiber.com/img/asp-net-core-identity-with-patterns.jpg" />][.Net Core]
+[<img align="left" alt=".Net Core" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />][.Net Core]
 <!-- [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJs] -->
 
 [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
@@ -54,7 +54,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonakshiRastogi&layout=compact)](https://github.com/SonakshiRastogi/SonakshiRastogi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonakshiRastogi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 
