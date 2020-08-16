@@ -80,7 +80,8 @@
 [Angular]:https://angular.io/
 [Javascript]:https://www.w3schools.com/js/
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[Java]:https://www.javatpoint.com/java-tutorial
+[C#]: https://cdn.auth0.com/blog/native-csharp/logo.png
+[.net core]: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png
 [Groovy]:https://groovy-lang.org/documentation.html
 [NodeJs]:https://www.w3schools.com/nodejs/nodejs_intro.asp
 [Sql]: https://www.w3schools.com/sql/
