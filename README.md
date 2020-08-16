@@ -12,14 +12,14 @@
     </a>
   </p>
 
-### Hi there, I'm Sonakshi - FSE  [Cognizant][website] 👋
+### Hi there, I'm Sonakshi - Full Stack Developer [Cognizant][website] 👋
 
-## I'm a Learner, Developer, and Explorer !
-- 🔭 I’m currently working on [Insurance Domain]!
-- 🌱 I’m currently learning AWS
+## I'm a Learner, Developer, and Explorer!
+- 🔭 I’m currently working in [Insurance Domain]!
+- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to write code.
+- ⚡ Fun fact: I love to draw, play Bedminton and write code.
 
 ### Connect with me :
 [<img align="left" alt="Linkdn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -37,8 +37,8 @@
 [<img align="left" alt="Angular" width="58px" src="https://repository-images.githubusercontent.com/24195339/87018c00-694b-11e9-8b5f-c34826306d36" />][Angular]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Javascript]
 <!--[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />][Python]-->
-[<img align="left" alt="C#" width="26px" src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" />][C#]
-[<img align="left" alt=".Net Core" width="40px" src="https://raw.githubusercontent.com/json-api-dotnet/JsonApiDotnetCore/master/logo.png" />][.Net Core]
+[<img align="left" alt="C#" width="26px" src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" />][C-Sharp]
+[<img align="left" alt=".Net Core" width="40px" src="https://raw.githubusercontent.com/json-api-dotnet/JsonApiDotnetCore/master/logo.png" />][DotNet Core]
 <!-- [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJs] -->
 
 [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
@@ -54,8 +54,7 @@
 
 
 
-[![Top Langs]((https://github-readme-stats.vercel.app/api/top-langs/?username=amitrepository&layout=compact)](https://https://github.com/SonakshiRastogi/SonakshiRastogi)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonakshiRastogi&layout=compact)](https://github.com/SonakshiRastogi/SonakshiRastogi)
 <br />
 
 
@@ -64,6 +63,7 @@
 
 ![Sonakshi's github stats](https://github-readme-stats.vercel.app/api?username=SonakshiRastogi&show_icons=true&theme=radical)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SonakshiRastogi&repo=SonakshiRastogi)](https://github.com/SonakshiRastogi/SonakshiRastogi)
 
 <!-- <img align="left" alt="Sonakshi's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SonakshiRastogi&show_icons=true&hide_border=true" /> -->
 
