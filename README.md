@@ -22,7 +22,6 @@
 - ⚡ Fun fact: I love to draw, play Badminton and write code.
 
 <br/>
-<br/s>
 ### Connect with me :
 [<img align="left" alt="Linkdn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -31,7 +30,7 @@
 
 <br />
 <br/>
-<br/s>
+<br/>
 
 ### Languages and Tools:
 
@@ -54,13 +53,9 @@
 <br />
 <br />
 <br />
-<br/>
-<br/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonakshiRastogi&layout=compact)](https://github.com/SonakshiRastogi/SonakshiRastogi)
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -71,8 +66,7 @@
 ![Sonakshi's github stats](https://github-readme-stats.vercel.app/api?username=SonakshiRastogi&show_icons=true&theme=radical)
 
 <br/>
-<br/>
-<br/>
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SonakshiRastogi&repo=SonakshiRastogi)](https://github.com/SonakshiRastogi/SonakshiRastogi)
 
