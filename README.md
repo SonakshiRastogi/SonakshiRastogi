@@ -21,7 +21,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw, play Badminton and write code.
 
-<br/>
 ### Connect with me :
 [<img align="left" alt="Linkdn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -29,8 +28,6 @@
 [<img align="left" alt="Facebook | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />][Facebook]
 
 <br />
-<br/>
-<br/>
 
 ### Languages and Tools:
 
@@ -65,7 +62,6 @@
 
 ![Sonakshi's github stats](https://github-readme-stats.vercel.app/api?username=SonakshiRastogi&show_icons=true&theme=radical)
 
-<br/>
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SonakshiRastogi&repo=SonakshiRastogi)](https://github.com/SonakshiRastogi/SonakshiRastogi)
