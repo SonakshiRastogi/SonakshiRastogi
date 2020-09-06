@@ -92,3 +92,4 @@
 [Github]:https://guides.github.com/activities/hello-world/
 [Jenkins]:https://www.tutorialspoint.com/jenkins/index.htm
 [Teamcity]:https://www.tutorialspoint.com/continuous_integration/continuous_integration_creating_project_teamcity.htm
+[Cognizant]: https://en.wikipedia.org/wiki/Cognizant#:~:text=Cognizant%20is%20an%20American%20multinational,100%20and%20trades%20under%20CTSH.
